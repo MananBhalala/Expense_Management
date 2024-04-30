@@ -1,0 +1,8 @@
+For Admin
+~ Username : admin
+~ Password : admin
+
+For User
+
+~ Username : student
+~ Password : student
